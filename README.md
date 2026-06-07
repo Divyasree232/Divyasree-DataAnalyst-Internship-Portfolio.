@@ -73,4 +73,4 @@ A full portfolio website is available in the `docs/` folder, including:
 For questions, feedback, or collaboration:
 
 - GitHub: [Divyasree232](https://github.com/Divyasree232)
-- LinkedIn: [Add your LinkedIn profile link here]
+- LinkedIn: https://www.linkedin.com/in/divyasree-kotla-059a40378
